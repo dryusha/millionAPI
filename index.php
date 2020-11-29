@@ -2,6 +2,7 @@
 //include('connect.php');
 include('data.php');
 
+
 die();
 /*$arrayOfNumbers = array_fill(1, 50, (object) ['count' => 0, 'percent' => 0]);
 $arrayOfNumbersStars = array_fill(1, 12, (object) ['count' => 0, 'percent' => 0]);*/
